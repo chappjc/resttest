@@ -1,0 +1,8 @@
+# Visual Studio Code
+.vscode/
+
+# Outputs
+*.exe
+
+# dotEnv file that might have secrets
+.env
